@@ -1,0 +1,32 @@
+{
+  "streams": [
+    {
+      "title": "my stream",
+      "description": "this is a great stream",
+      "id": 1
+    },
+    {
+      "title": "I created this stream",
+      "description": "without signing in",
+      "userId": null,
+      "id": 2
+    },
+    {
+      "title": "I created this stream",
+      "description": "with Sign in!",
+      "userId": "108931608965596896017",
+      "id": 3
+    },
+    {
+      "title": "Create stream now edited",
+      "description": "this was made by me with google sign in!",
+      "id": 4
+    },
+    {
+      "title": "Edited Stream with patch request",
+      "description": "Auto navigation to stream list after submission!",
+      "userId": "108931608965596896017",
+      "id": 6
+    }
+  ]
+}
